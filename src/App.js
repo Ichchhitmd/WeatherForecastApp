@@ -6,7 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Welcome to our very own weather forecast application</p>
+        <p>
+          Welcome to our very own weather forecast application where ill be git
+          ignoring this file
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
